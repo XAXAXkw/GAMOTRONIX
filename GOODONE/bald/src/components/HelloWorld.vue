@@ -10,15 +10,30 @@
   <br />Congratulations to everybody.
   <br />
   <a href="#">Evererything is gonna be JUST FINE!</a> </div>
+  <button class="btn btn-danger" @click="player1()">PLAY</button>
   </div>
 </template>
 
 <script>
+//import { useSound } from '@vueuse/sound'
 export default {
   name: 'HelloWorld',
+  data(){
+    return{
+      sound:new Audio('../assets/music/bald01_intro.wav')
+    }
+  },
   props: {
     msg: String
-  }
+  }, 
+  mounted(sound) {
+    if(sound){
+     let audio = new Audio('@/music/bald01_intro.wav'); // path to file
+   audio.play();}
+  },
+  
+  
+
 }
 </script>
 
