@@ -4,7 +4,12 @@
   <img src="../assets/img/calvo1.gif" class="w-50" />
 
 <div class="container m-2">
-  <p>Lorem ipsum, <a href="#">dolor sit amet consectetur</a> adipisicing elit. Suscipit animi autem consequatur non quam fugiat incidunt <a href="#">officia labore </a>architecto sequi illo dolor doloribus, fuga minus, perspiciatis, exercitationem perferendis</p><a href="#">inventore molestias!</a> </div>
+  <p>Earth, the gentle planet <a href="#">as we know it among us, the B.A.L.D. galactic members</a> have always been our brother world. When you needed help, we were here. When you neded guidance, we were here. When you demanded FREEDOM from your corrupt leaders, we heard the call too. And with us came PEACE ON EARTH!... And the end of suffering and pain!...And the most important: the recovery of the ECOHABITAT that YOU destroyed incounsciously during centuries in the past. <a href="#">OFFICIAL MESSAGE for TODAY </a>The numbers of biodiversity are increasing.</p><br /> <br />
+  <div class="container"> <h1 style="color:aquamarine">THANKS TO B.A.L.D. </h1>Pollution levels will be lowered to 1,23339 htc this month. </div>
+ 
+  <br />Congratulations to everybody.
+  <br />
+  <a href="#">Evererything is gonna be JUST FINE!</a> </div>
   </div>
 </template>
 
