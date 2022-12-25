@@ -22,7 +22,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #ff2c88;
-  max-width:800px;
+
   min-width: 320px;
 }
 

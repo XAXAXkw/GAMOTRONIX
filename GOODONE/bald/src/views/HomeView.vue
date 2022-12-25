@@ -2,7 +2,7 @@
   <div class="home">
   
    
-    <HelloWorld msg="Welcome to B.A.L.D."/>
+    <HelloWorld msg="GOOD DAY, human brothers!"/>
   </div>
 </template>
 
