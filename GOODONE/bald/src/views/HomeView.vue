@@ -3,7 +3,7 @@
   
   <GameData />
    
-    <HelloWorld msg="GOOD DAY, human brothers!"/>
+    <HelloWorld msg="Nameless Imbecile "/>
   </div>
 </template>
 

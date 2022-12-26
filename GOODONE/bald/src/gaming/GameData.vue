@@ -3,9 +3,11 @@
     <div class="wrapper">
     <div class="container">
     <div class="row d-flex align-items-center align-self-center">
-    <div class="col"><div class="row border A p-2 m-2 w-50"> <p class="text-success">gamedata</p>    </div>
-        <div class="row border B p-2 m-2 w-50"> <p class="text-success">gamedata   <img src="../assets/img/tech1icon.gif" class="icons2"/></p>    </div>
-            <div class="row border C p-2 m-2 w-50"> <p class="text-success">gamedata</p></div></div>
+    <div class="col"><div class="row border A p-2 m-2 w-50"> <div class="container"><p>THE BOX:</p>0000$  </div>   </div>
+        <div class="row border B p-2 m-2 w-50"> <p class="text-success">STAGE 1  <img src="../assets/img/tech1icon.gif" class="icons2"/> the URANIUM ROD</p>    </div>
+            <div class="row border border-danger rounded-4 C p-2 m-2 w-50"> 
+            <div class="container"><p class="text-danger">Game SCORE:</p>000</div>
+            </div></div>
     <div class="col m-2 "><div class="container bg-dark">
     <div class="row D">
     <p>   2 Loremdhjiunt ad?</p>

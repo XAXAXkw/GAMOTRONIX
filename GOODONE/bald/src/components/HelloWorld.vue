@@ -1,7 +1,7 @@
 <template>
   <LoggerComp />
   <div class="hello mt-4">
-    <h1>{{ msg }} </h1>
+    <h1>Good Day, {{ msg }}! </h1>
   <img src="../assets/img/calb1.gif" class="w-50" />
 
 <div class="container m-2">
@@ -17,8 +17,8 @@
     <div > <img src="@/assets/img/baldlogo.gif" class="d-flex w-50"/><p>B.A.L.D. Company since 230.000 B.C.</p></div> </h1>Pollution levels will be lowered to 1,23339 htc this month.* 
     <br /> <br />
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis, eos repudiandae iusto nihil nobis aspernatur dolorum nam repellendus odio obcaecati neque sunt, commodi assumenda dolor! Assumenda at ad nostrum quam.</p></div>
-
-  <br />Congratulations to everybody.
+<div class="container D rounded-4 m-4 p-2 w-100">Congratulations,{{msg}}, you are now CONNECTED TO THE FUTURE!</div>
+  <br />
   <br />
  
  
