@@ -21,6 +21,13 @@ const routes = [
 
     component: () => import('../views/StoryView.vue')
   }
+  ,
+  {
+    path: '/gamedata',
+    name: 'gamedata',
+
+    component: () => import('../gaming/GameData.vue')
+  }
 ]
 
 const router = createRouter({

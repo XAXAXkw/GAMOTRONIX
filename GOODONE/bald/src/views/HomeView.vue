@@ -1,6 +1,7 @@
 <template>
   <div class="home">
   
+  <GameData />
    
     <HelloWorld msg="GOOD DAY, human brothers!"/>
   </div>
@@ -9,11 +10,12 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
+import GameData from '../gaming/GameData.vue'
 
 export default {
   name: 'HomeView',
   components: {
-    HelloWorld
+    HelloWorld, GameData
   }
 }
 </script>

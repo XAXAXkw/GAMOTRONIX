@@ -3,8 +3,8 @@
   <div class="container d-flex">   
   
    <router-link to="/">START</router-link> |
-   <router-link to="/">START</router-link> |
-   <router-link to="/">START</router-link> |
+   <router-link to="/gamedata">DATA</router-link> |
+   <router-link to="/story">STORY</router-link> |
    <router-link to="/">START</router-link> |
    <router-link to="/">START</router-link> |
   
