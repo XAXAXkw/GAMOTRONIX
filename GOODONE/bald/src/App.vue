@@ -18,12 +18,14 @@
 <style>
 #app {
   font-family: 'Press Start 2P', cursive;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
   text-align: center;
   color: #ff2c88;
 
   min-width: 320px;
+}
+a {
+  color: #42b983;
 }
 
 nav {
@@ -54,9 +56,14 @@ body{
     background-color: black;
 }
 
-h4,h5,h6,p{
+h2,h3{
   font-family: 'Press Start 2P', cursive;
-    font-size: x-small;
+    font-size: 15px;
+}
+
+h4,h5,h6,p{
+
+    font-size: 8px;
 }
 .redMenu{
     font-family: 'Press Start 2P', cursive;

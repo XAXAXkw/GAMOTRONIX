@@ -1,4 +1,5 @@
 <template>
+  <LoggerComp />
   <div class="hello mt-4">
     <h1>{{ msg }} </h1>
   <img src="../assets/img/calb1.gif" class="w-50" />
@@ -36,6 +37,7 @@
 
 <script>
 //import { useSound } from '@vueuse/sound'
+import LoggerComp from '@/components/LoggerComp.vue'
 export default {
   name: 'HelloWorld',
   data(){
@@ -51,6 +53,9 @@ export default {
      let audio = new Audio('@/music/bald01_intro.wav'); // path to file
    audio.play();}
   },
+  components:{
+      LoggerComp
+  }
   
   
 
@@ -73,7 +78,5 @@ li {
   display: inline-block;
   margin: 0 10px;
 }
-a {
-  color: #42b983;
-}
+
 </style>

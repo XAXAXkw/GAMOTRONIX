@@ -1,5 +1,6 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about p-4">
+    <h1>This is about OUR FUTURE</h1>
+    <img src="../assets/img/calb2.gif" />
   </div>
 </template>
