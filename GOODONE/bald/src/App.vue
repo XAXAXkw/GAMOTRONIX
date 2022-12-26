@@ -15,8 +15,10 @@
   <hr />
 </template>
 
-<style>
+<style type="css">
+
 #app {
+
   font-family: 'Press Start 2P', cursive;
 
   text-align: center;
@@ -25,7 +27,7 @@
   min-width: 320px;
 }
 a {
-  color: #42b983;
+  color: #31d5ca;
 }
 
 nav {
@@ -42,7 +44,7 @@ nav a {
 }
 nav a:hover {
   font-weight: bold;
-  color: aquamarine;
+  color:  #31d5ca;
 }
 
 nav a.router-link-exact-active {
@@ -64,6 +66,22 @@ h2,h3{
 h4,h5,h6,p{
 
     font-size: 8px;
+}
+.A{
+  background-color: #583560;
+  color:#ff2c88 ;
+}
+.B{
+  background-color: #31d586;
+  color: #583560;
+}
+.C{
+  background-color: rgb(255, 110, 177);
+  color: #583560;
+}
+.D{
+  background-color: #c3ff00;
+  color:#000000 ;
 }
 .redMenu{
     font-family: 'Press Start 2P', cursive;

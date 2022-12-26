@@ -3,12 +3,12 @@
     <div class="wrapper">
     <div class="container">
     <div class="row d-flex align-items-center align-self-center">
-    <div class="col"><div class="row border border-success  p-2 m-2 w-50"> <p class="text-success">gamedata</p>    </div>
-        <div class="row border border-success  p-2 m-2 w-50"> <p class="text-success">gamedata</p>    </div>
-            <div class="row border border-success  p-2 m-2 w-50"> <p class="text-success">gamedata</p></div></div>
+    <div class="col"><div class="row border A p-2 m-2 w-50"> <p class="text-success">gamedata</p>    </div>
+        <div class="row border B p-2 m-2 w-50"> <p class="text-success">gamedata   <img src="../assets/img/tech1icon.gif" class="icons2"/></p>    </div>
+            <div class="row border C p-2 m-2 w-50"> <p class="text-success">gamedata</p></div></div>
     <div class="col m-2 "><div class="container bg-dark">
-    <div class="row bg-dark">
-    <p>   2 Loremdunt ad?</p>
+    <div class="row D">
+    <p>   2 Loremdhjiunt ad?</p>
     </div>
     <div class="row bg-dark">
     <p>   2 Loremdunt ad?</p>
@@ -16,19 +16,39 @@
     <div class="row bg-dark">
     <p>   2 Loremdunt ad?</p>
     </div>
-    <div class="row bg-success">
-    <p>   2 Loremdunt ad?</p>
+    <div class="row B">
+    <p>  BALD P.I.B :
+    <br />
+    <img src="../assets/img/fruit1icon.gif" class="icons2"/>
+    <img src="../assets/img/fruit2icon.gif" class="icons2"/>
+
+
+
+    
+    </p>
     </div>
     <div class="row bg-dark">
-    <p>   2 Loremdunt ad?</p>
+    <p>   CURRENT TECHNOLOGY </p>
+ 
     </div>
     
  </div></div>
-    <div class="col m-4 border "><div class="row bg-success text-light">
-    <p>   2 Loremdunt ad?</p>
+    <div class="col m-4 border "><div class="row A text-light">
+    <p>   2 Loremyuiyuiyuiuyi6666dunt ad?</p>
     </div></div>
-    <div class="col m-4"><div class="row bg-dark">
-    <p>   2 Loremdunt ad?</p>
+    <div class="col m-4"><div class="row D p-2">
+    <p>   2 Loremdunt ad? </p>
+    
+    <div class="container rounded-4 p-2 bg-success">   <img src="../assets/img/hearticon.gif" class="icons"/>
+    
+        <img src="../assets/img/hearticon.gif" class="icons"/>
+    <img src="../assets/img/hearticon.gif" class="icons"/>
+    <img src="../assets/img/hearticon.gif" class="icons"/>
+    <img src="../assets/img/hearticon2.gif" class="icons"/>
+
+    </div>
+    
+  
     </div></div>
     
     </div>
@@ -53,5 +73,12 @@
 border:dotted 1px hotpink;
 margin:10px;
 }
-
+.icons{
+    width:25px;
+    margin:5px;
+}
+.icons2{
+    width:50px;
+    margin:5px;
+}
 </style>

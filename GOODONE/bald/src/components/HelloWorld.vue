@@ -12,9 +12,9 @@
   
 <br />
   
-  <div class="container border border-success bg-dark rounded-2 p-2 m-4 w-75"> <h1 style="color:aquamarine">
-  <div class="container bg-success rounded-4 p-2">THANKS TO </div>
-    <div > <img src="@/assets/img/baldlogo.gif" class="d-flex w-50"/></div> </h1>Pollution levels will be lowered to 1,23339 htc this month.* 
+  <div class="container border border-success B rounded-2 p-2 m-4 w-75"> <h1 style="color:aquamarine">
+  <div class="container D rounded-4 p-2">THANKS TO </div>
+    <div > <img src="@/assets/img/baldlogo.gif" class="d-flex w-50"/><p>B.A.L.D. Company since 230.000 B.C.</p></div> </h1>Pollution levels will be lowered to 1,23339 htc this month.* 
     <br /> <br />
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis, eos repudiandae iusto nihil nobis aspernatur dolorum nam repellendus odio obcaecati neque sunt, commodi assumenda dolor! Assumenda at ad nostrum quam.</p></div>
 
@@ -23,10 +23,10 @@
  
  
   <a href="#">Evererything is gonna be JUST FINE!</a> </div>
-  <button class="btn btn-danger" @click="player1()">PLAY</button>
+  <button class="btn A" @click="player1()">PLAY</button>
   <div class="container">
   <div class="row">
-  <div class="col"><div class="container bg-dark m-4 p-4 w-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quidem quae a deleniti. A ut fugit autem perferendis libero sint mollitia omnis id! Explicabo ab aperiam aliquid molestias, praesentium provident?</p></div></div>
+  <div class="col"><div class="container B m-4 p-4 w-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quidem quae a deleniti. A ut fugit autem perferendis libero sint mollitia omnis id! Explicabo ab aperiam aliquid molestias, praesentium provident?</p></div></div>
   <div class="col">  <div class="container border border-success m-4 p-4 w-50"> <a href="#">OFFICIAL MESSAGE for TODAY </a>The numbers of biodiversity are increasing.</div></div>
   </div>
   </div>
